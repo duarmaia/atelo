@@ -1,0 +1,49 @@
+@import url (<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #F4B223;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+header {
+    background-color: #FFFFFF;
+    padding: 1%;
+    box-shadow: 1px 1px 30px #0C121C;    
+    font-weight: 600;
+    font-style: normal; 
+}
+
+nav {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;     
+}
+
+a:link {
+    color: #0C121C;
+}
+
+a:visited {
+    color: #0C121C;
+}
+
+.menu_principal {    
+    
+}
+
+.menu_noticias {
+ 
+    /* margin-left: auto; */
+}
+
+.nav_link {
+    text-decoration: none;
+        
+}
